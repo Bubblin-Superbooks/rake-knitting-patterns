@@ -169,15 +169,15 @@
   },
   {
     "tag": "p",
-    "innerHtml": "The long rakes () are set with 1 inch finishing nails or with 1 inch, No. 16 wire brads. The nails must be set carefully as indicated in the drawing and project evenly ⅜ inch above the surface of the wood."
+    "innerHtml": "The long rakes  are set with 1 inch finishing nails or with 1 inch, No. 16 wire brads. The nails must be set carefully as indicated in the drawing and project evenly ⅜ inch above the surface of the wood."
   },
   {
     "tag": "p",
-    "innerHtml": "The small double round rake () is set with 1 inch finishing nails."
+    "innerHtml": "The small double round rake  is set with 1 inch finishing nails."
   },
   {
     "tag": "p",
-    "innerHtml": "The large round rake () is set with 1½ inch No. 10 wire brads, or with wooden pegs whittled from ⅜ inch doweling, leaving a small head to prevent the yarn from slipping off too easily. The pegs should be securely glued into holes drilled just the right size to take them. Many patients prefer the wooden pegs in the round rakes. Such a rake was sold in some stores during the war and used for knitting hospital stockings to cover surgical dressings."
+    "innerHtml": "The large round rake  is set with 1½ inch No. 10 wire brads, or with wooden pegs whittled from ⅜ inch doweling, leaving a small head to prevent the yarn from slipping off too easily. The pegs should be securely glued into holes drilled just the right size to take them. Many patients prefer the wooden pegs in the round rakes. Such a rake was sold in some stores during the war and used for knitting hospital stockings to cover surgical dressings."
   },
   {
     "tag": "img",
@@ -185,7 +185,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "For a <em>pick</em>, an ordinary nutpick, () will serve very well, or one can be made from a 3 inch finishing nail, set in a wooden handle, bent and filed into shape as shown in , and finished with emery cloth, and oil and pumice."
+    "innerHtml": "For a <em>pick</em>, an ordinary nutpick,  will serve very well, or one can be made from a 3 inch finishing nail, set in a wooden handle, bent and filed into shape as shown in , and finished with emery cloth, and oil and pumice."
   },
   {
     "tag": "hr",
@@ -216,36 +216,38 @@
     "innerHtml": "Chapter 2."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Winding A Long Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "WINDING A LONG RAKE."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "<em>Three different stitches are commonly used in rake knitting.</em>"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Single Or Plain Stitch—."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Double Or Cross-stitch—."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Triple Cross-stitch—."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Single or plain stitch—.",
+        "Double or cross-stitch—.",
+        "Triple cross-stitch—."
+      ]
+    }
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "To Cast Stitches On A Long Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To Cast Stitches on a Long Rake."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -268,20 +270,25 @@
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "First Winding."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "First Winding."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "<em>The same for all stitches.</em>"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tie Yarn To Nail A, Leaving An End 3 Or 4 Inches Long Which Is Slipped Through The Opening Of The Rake. Let The Rake Rest In The Left Hand. With The Right Hand Wind The Yarn Around The Nails As Shown In The Diagram. Do Not Pull The Yarn Too Tight; Just Hold It Easily Between Thumb And Finger. When The Last Nail (B) Is Reached, Wrap The Yarn Once Around The Tack To Hold It."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Draw The Smooth Flat Side Of The Pick Rapidly Down The Length Of The Rake Between The Rows Of Nails. This Pushes The Yarn To The Bottom Of The Nails, And Leaves Space Above For The Second Winding Of Yarn."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tie yarn to nail A, leaving an end 3 or 4 inches long which is slipped through the opening of the rake. Let the rake rest in the left hand. With the right hand wind the yarn around the nails as shown in the diagram. Do not pull the yarn too tight; just hold it easily between thumb and finger. When the last nail (B) is reached, wrap the yarn once around the tack to hold it.",
+        "Draw the smooth flat side of the pick rapidly down the length of the rake between the rows of nails. This pushes the yarn to the bottom of the nails, and leaves space above for the second winding of yarn."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -317,71 +324,60 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<em>In single or plain stitch, () do not cross the yarn.</em>"
+    "innerHtml": "<em>In single or plain stitch,  do not cross the yarn.</em>"
   },
   {
-    "tag": "h5",
-    "innerHtml": "The First Winding Ended At B With The Last Cross At C."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Wind The Yarn Around D And E Without Crossing It, And So On Back To The End Of The Rake Where The First Winding Began. Wrap The Yarn Around The Tack."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "The Yarn Has Passed Twice In Front Of Each Nail With The Exception Of Nail B."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "With The Pick Lift The Lower Thread (First Winding) Over The Upper Thread, (Second Winding) And Off The Nail. Do Not Stretch The Yarn More Than Just Enough To Lift It Over The Head Of The Nail. Do This At Each Nail Along One Side, Then Along The Other, Leaving Out The Nail B Which Has Just One Thread. This Completes The First Row Of Stitches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Draw The Smooth Flat Side Of The Pick Rapidly Down The Length Of The Rake Between The Rows Of Nails To Push Down The Yarn, And Make Room For The Next Winding."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "The first winding ended at B with the last cross at C.",
+        "Wind the yarn around D and E without crossing it, and so on back to the end of the rake where the first winding began. Wrap the yarn around the tack.",
+        "The yarn has passed twice in front of each nail with the exception of nail B.",
+        "With the pick lift the lower thread (first winding) over the upper thread, (second winding) and off the nail. Do not stretch the yarn more than just enough to lift it over the head of the nail. Do this at each nail along one side, then along the other, leaving out the nail B which has just one thread. This completes the first row of stitches.",
+        "Draw the smooth flat side of the pick rapidly down the length of the rake between the rows of nails to push down the yarn, and make room for the next winding."
+      ]
+    }
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "Second Winding—continued."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Second Winding—Continued."
+      ]
+    }
   },
   {
     "tag": "p",
-    "innerHtml": "<em>In double or cross-stitch. ()</em>"
+    "innerHtml": "_In double or cross-stitch. _"
   },
   {
-    "tag": "h5",
-    "innerHtml": "The Second Winding Is The Same As The First Winding; That Is, The Yarn Is Crossed."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "With The Pick Lift The Lower Thread Over The Upper Thread As In Single Or Plain Stitch. This Completes The First Row Of Stitches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Draw The Smooth Flat Side Of The Pick Along Between The Rows Of Nails To Make Space For The Next Winding."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "The second winding is the same as the first winding; that is, the yarn is crossed.",
+        "With the pick lift the lower thread over the upper thread as in single or plain stitch. This completes the first row of stitches.",
+        "Draw the smooth flat side of the pick along between the rows of nails to make space for the next winding."
+      ]
+    }
   },
   {
     "tag": "p",
-    "innerHtml": "<em>Triple cross-stitch. ()</em>"
+    "innerHtml": "_Triple cross-stitch. _"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Wind Once Over And Back As If For Double Or Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Wind The Yarn A Third Time Across The Rake, Crossing It As In The First And Second Winding."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Three Threads Now Pass In Front Of Each Nail Except A And B. Lift The Lower Thread (First Winding) Over The Upper Two Threads And Off The Nail. Do This At All The Nails Except A And B. This Completes The First Row Of Stitches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Push Threads To The Bottom Of The Nails By Drawing The Smooth Flat Side Of The Pick Rapidly Along Between The Rows Of Nails."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Wind once over and back as if for double or cross-stitch.",
+        "Wind the yarn a third time across the rake, crossing it as in the first and second winding.",
+        "Three threads now pass in front of each nail except A and B. Lift the lower thread (first winding) over the upper two threads and off the nail. Do this at all the nails except A and B. This completes the first row of stitches.",
+        "Push threads to the bottom of the nails by drawing the smooth flat side of the pick rapidly along between the rows of nails."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -420,28 +416,17 @@
     "innerHtml": "Single or double stitch may be used."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tie The Yarn To One Of The Nails."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Wind Once Around The Rake As Directed In  For The First Winding, Until The Nail To Which The Yarn Is Tied Is Reached Again."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue Winding Until This Nail Is Reached A Second Time, That Is, Until Two Threads Pass In Front Of Each Nail."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Wrap Yarn Around A Thumb Tack In The Side Of The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Lift The Lower Thread (First Winding) Over The Upper Thread (Second Winding) And Off The Nails. When Only One Thread Remains Around Each Nail, Run The Smooth Flat Side Of The Pick Around Between The Rows Of Nails To Push Down The Threads, And Make Room For The Next Winding."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue By Winding Once Around The Rake; That Is, Until Two Threads Again Pass In Front Of Each Nail. Lift The Lower Thread Over The Upper Thread And Off The Nails To Complete The Row Of Stitches."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tie the yarn to one of the nails.",
+        "Wind once around the rake as directed in  for the first winding, until the nail to which the yarn is tied is reached again.",
+        "Continue winding until this nail is reached a second time, that is, until two threads pass in front of each nail.",
+        "Wrap yarn around a thumb tack in the side of the rake.",
+        "Lift the lower thread (first winding) over the upper thread (second winding) and off the nails. When only one thread remains around each nail, run the smooth flat side of the pick around between the rows of nails to push down the threads, and make room for the next winding.",
+        "Continue by winding once around the rake; that is, until two threads again pass in front of each nail. Lift the lower thread over the upper thread and off the nails to complete the row of stitches."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -457,27 +442,22 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Round Cap Rake (.)"
+    "innerHtml": "Round Cap Rake"
   },
   {
     "tag": "p",
     "innerHtml": "To knit a cap on this rake the single stitch is used, as a rule."
   },
   {
-    "tag": "h5",
-    "innerHtml": "To Cast On Stitches, Tie Yarn To A Nail, (), And Wind To The Left, Until Nail A Is Reached Again."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Then, Holding The Yarn In The Left Hand, Pass It Along In Front Of Nail A, And Above The First Winding, And Lift The Lower Thread On The Nail Over The Upper And Off The Nail."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Move The Rake Around A Little Until The Yarn Held In The Left Hand Passes In Front Of Nail B. Be Sure It Is Above The Thread Already On The Nail. Lift Lower Thread Over The Upper Thread And Off The Nail."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue In This Way Around And Around The Rake Until The Knitting Of The Cap Is Complete. The Pattern For A Cap Is Described In ."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To cast on stitches, tie yarn to a nail, , and wind to the left, until nail A is reached again.",
+        "Then, holding the yarn in the left hand, pass it along in front of nail A, and above the first winding, and lift the lower thread on the nail over the upper and off the nail.",
+        "Move the rake around a little until the yarn held in the left hand passes in front of nail B. Be sure it is above the thread already on the nail. Lift lower thread over the upper thread and off the nail.",
+        "Continue in this way around and around the rake until the knitting of the cap is complete. The pattern for a cap is described in ."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -488,11 +468,7 @@
     "innerHtml": "Chapter 4."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "General Instructions."
   },
   {
@@ -500,8 +476,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Change From Single Or Double Stitch To Triple Stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Change from Single or Double Stitch to Triple Stitch."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -512,8 +492,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Change From Triple Stitch To Single Or Double Stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Change from Triple Stitch to Single or Double Stitch."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -524,8 +508,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Cast Off Stitches In Shaping Garments."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Cast Off Stitches in Shaping Garments."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -540,8 +528,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Add Stitches In Shaping Garments."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Add Stitches in Shaping Garments."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -552,16 +544,24 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Cast Off Knitting From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Cast Off Knitting from the Rake."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "There are two ways to do this."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Leave A Length Of Yarn, When Cutting Off The Ball, Long Enough To Knit Once Across The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Leave a length of yarn, when cutting off the ball, long enough to knit once across the rake."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -572,8 +572,12 @@
     "innerHtml": "Then cast off as in ordinary knitting. (See directions in any book on knitting.)"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Another Way Is To Take Off The Stitch From The First Nail With A Crochet Hook, Then The Stitch From The First Nail In The Other Row, And Draw This One Through The Stitch Already On The Hook. Then Take Off The Next And Draw It Through The Stitch On The Hook, And So On Until All The Stitches Have Been Crocheted From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Another way is to take off the stitch from the first nail with a crochet hook, then the stitch from the first nail in the other row, and draw this one through the stitch already on the hook. Then take off the next and draw it through the stitch on the hook, and so on until all the stitches have been crocheted from the rake."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -584,8 +588,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Take Up The Loose Stitches At The Beginning Of The Knitting."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Take Up the Loose Stitches at the Beginning of the Knitting."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -604,8 +612,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Sew Garments Together."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Sew Garments Together."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -616,8 +628,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Make Buttonholes."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Make Buttonholes."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -636,8 +652,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Determine The Quantity Of Yarn Required For Any Pattern."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Determine the Quantity of Yarn Required for Any Pattern."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -660,8 +680,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Adapt The Patterns For Smaller Or Larger Garments."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Adapt the Patterns for Smaller or Larger Garments."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -676,8 +700,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h5",
-    "innerHtml": "How To Make Other Patterns."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "How to Make Other Patterns."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -704,20 +732,20 @@
     "innerHtml": "Chapter 5."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "To Make Shawls And Scarfs."
   },
   {
-    "tag": "h3",
+    "tag": "h5",
     "innerHtml": "General Directions."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Rakes Used For Knitting Shawls And Scarfs."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Rakes used for knitting shawls and scarfs."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -728,8 +756,12 @@
     "innerHtml": "For two-fold yarn or silky wool use rakes No. 2 or No. 3."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Single Or Double Stitch Is Used In Knitting Shawls. (See .)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Single or double stitch is used in knitting shawls. (See .)"
+      ]
+    }
   },
   {
     "tag": "img",
@@ -740,8 +772,12 @@
     "innerHtml": "Fig. 13."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Quantity Of Yarn Required. (Read  Of Chapter 4.)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Quantity of yarn required. (Read  of Chapter 4.)"
+      ]
+    }
   },
   {
     "tag": "p",
@@ -764,12 +800,13 @@
     "innerHtml": "Fig. 14."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Average Length Of Shawl, 60 To 72 Inches When Finished."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "To Join Yarns Of Different Color. Tie A Square Knot Between Nails B And C, , And Cut The Ends Off Close To The Knot."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Average length of shawl, 60 to 72 inches when finished.",
+        "To join yarns of different color. Tie a square knot between nails B and C, , and cut the ends off close to the knot."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -780,12 +817,13 @@
     "innerHtml": "Fig. 15. Cap and Scarf."
   },
   {
-    "tag": "h5",
-    "innerHtml": "To Make A Good Edge To Which The Fringe Can Be Knotted, Crochet Once Across The End Of The Shawl, Using The Slip Stitch Described In  Of Chapter 4."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Do Not Make The Fringe Too Heavy. Double Two Or Three Lengths Of Yarn And Knot Into The Shawl At The Bottom Of Each Rib. These May Be Left Hanging Or May Be Knotted In Various Ways. (See .)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To make a good edge to which the fringe can be knotted, crochet once across the end of the shawl, using the slip stitch described in  of Chapter 4.",
+        "Do not make the fringe too heavy. Double two or three lengths of yarn and knot into the shawl at the bottom of each rib. These may be left hanging or may be knotted in various ways. (See .)"
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -832,11 +870,7 @@
     "innerHtml": "Chapter 6."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Harmonious Combinations Of Colors In Shawls."
   },
   {
@@ -877,111 +911,83 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 1 ()"
+    "innerHtml": "Border 1"
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Medium Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—A cool shade of tan (buff).\nB—Old rose."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Japan-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Garnet."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Medium green-blue ground.\nA—A cool shade of tan (buff).\nB—Old rose.",
+        "Japan-blue ground.\nA—Black.\nB—Garnet."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Red-purple Ground (Amethyst)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black or dark yellow-green.\nB—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Red-purple Ground (Amethyst)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid) or black.\nB—Medium turquoise-blue."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark red-purple ground (amethyst).\nA—Black or dark yellow-green.\nB—Orange.",
+        "Dark red-purple ground (amethyst).\nA—Light amethyst (orchid) or black.\nB—Medium turquoise-blue."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Chestnut-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Apricot.\nB—Deep turquoise-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Topaz.\nB—Tan."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Chestnut-brown ground.\nA—Apricot.\nB—Deep turquoise-blue.",
+        "Dark brown ground.\nA—Topaz.\nB—Tan."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Medium Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Deep cream.\nB—Salmon."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Medium yellow-green ground.\nA—Deep cream.\nB—Salmon.",
+        "Yellow-green ground.\nA—Black.\nB—Burnt-orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Lavender.\nB—Coral."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Pearl-gray ground.\nA—Lavender.\nB—Coral."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Pink ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Laurel-pink Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green.\nB—Coral."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Laurel-pink ground.\nA—Light yellow-green.\nB—Coral."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -997,91 +1003,70 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 2 ()"
+    "innerHtml": "Border 2"
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Turquoise-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Blue-lavender (cornflower).\nB—Pale-yellow."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Copenhagen-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Old rose.\nB—A cool shade of tan (buff) or the same as the ground."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Turquoise-blue ground.\nA—Blue-lavender (cornflower).\nB—Pale-yellow.",
+        "Copenhagen-blue ground.\nA—Old rose.\nB—A cool shade of tan (buff) or the same as the ground."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Wild-rose.\nB—Light yellow."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Yellow tan (chamois).\nB—Light yellow-green or the same as the ground."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light yellow-green ground.\nA—Wild-rose.\nB—Light yellow.",
+        "Dark yellow-green ground.\nA—Yellow tan (chamois).\nB—Light yellow-green or the same as the ground."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Chestnut-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Yellow-green.\nB—Tan."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Chestnut-brown ground.\nA—Yellow-green.\nB—Tan."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Peacock blue.\nB—Cherry."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Lavender.\nB—Pink or coral."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver-gray ground.\nA—Peacock blue.\nB—Cherry.",
+        "Pearl-gray ground.\nA—Lavender.\nB—Pink or coral."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Amethyst Ground—dark."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid).\nB—Pearl-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Amethyst ground—dark.\nA—Light amethyst (orchid).\nB—Pearl-gray."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1097,103 +1082,82 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 3 ()"
+    "innerHtml": "Border 3"
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Peacock-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sapphire-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Fawn.\nB—Orange or a lighter shade of ground."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Peacock-blue ground.\nA—Black.\nB—Burnt-orange.",
+        "Sapphire-blue ground.\nA—Fawn.\nB—Orange or a lighter shade of ground."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green.\nB—Black."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark yellow-green ground.\nA—Black.\nB—Burnt-orange.",
+        "Dark yellow-green ground.\nA—Light yellow-green.\nB—Black."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark brown.\nB—Topaz."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Dark brown.\nB—Topaz."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Seal-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Green-blue.\nB—Champagne."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Chestnut-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Tan.\nB—Gold brown or burnt-orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Seal-brown ground.\nA—Green-blue.\nB—Champagne.",
+        "Chestnut-brown ground.\nA—Tan.\nB—Gold brown or burnt-orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Red-purple Ground (Heliotrope)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Silver-gray.\nB—Lavender."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Red-purple ground (heliotrope).\nA—Silver-gray.\nB—Lavender."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Coral ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Coral Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Silver-gray.\nB—Pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Coral ground.\nA—Silver-gray.\nB—Pink."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1209,27 +1173,20 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 4 ()"
+    "innerHtml": "Border 4"
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Hunter-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Orange.\nB—Black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Medium Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Deep cream.\nB—Burnt-orange or salmon."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Hunter-green ground.\nA—Orange.\nB—Black.",
+        "Medium yellow-green ground.\nA—Deep cream.\nB—Burnt-orange or salmon."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -1244,92 +1201,64 @@
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Terra-cotta or henna.\nB—Black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Light Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Ocean-green.\nB—Lavender."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Delft-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Old rose.\nB—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Green-blue ground.\nA—Terra-cotta or henna.\nB—Black.",
+        "Light green-blue ground.\nA—Ocean-green.\nB—Lavender.",
+        "Delft-blue ground.\nA—Old rose.\nB—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Scarlet ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Scarlet Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Emerald-green."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Scarlet ground.\nA—Black.\nB—Emerald-green."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Pink or old rose ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Salmon-pink Or Old Rose Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Silver or pearl-gray."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Tearose-pink Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Cream.\nB—Coral."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Salmon-pink or old rose ground.\nA—Amethyst.\nB—Silver or pearl-gray.",
+        "Tearose-pink ground.\nA—Cream.\nB—Coral."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Light or dark purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Lilac Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Wistaria.\nB—Pearl-gray."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Amethyst Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid).\nB—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Lilac ground.\nA—Wistaria.\nB—Pearl-gray.",
+        "Dark amethyst ground.\nA—Light amethyst (orchid).\nB—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Topaz or burnt-orange.\nB—Tan."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Brown ground.\nA—Topaz or burnt-orange.\nB—Tan."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1345,119 +1274,84 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 5 ()"
+    "innerHtml": "Border 5"
   },
   {
     "tag": "p",
     "innerHtml": "Cream ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Gold."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Corn-color Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Nile green.\nB—Light amethyst (orchid)."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cream ground.\nA—Black.\nB—Gold.",
+        "Corn-color ground.\nA—Nile green.\nB—Light amethyst (orchid)."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Burnt-orange ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Burnt-orange Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal brown.\nB—Turquoise-blue or gold."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Burnt-orange ground.\nA—Seal brown.\nB—Turquoise-blue or gold."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Black ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Black Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Burnt-orange.\nB—Peacock-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Black Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Pearl-gray.\nB—Amethyst."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Black ground.\nA—Burnt-orange.\nB—Peacock-blue.",
+        "Black ground.\nA—Pearl-gray.\nB—Amethyst."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green.\nB—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Brown or black.\nB—Burnt-orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark yellow-green ground.\nA—Light yellow-green.\nB—Orange.",
+        "Dark yellow-green ground.\nA—Brown or black.\nB—Burnt-orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Light or dark purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Purple Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light purple (orchid).\nB—Silver-gray."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Light Amethyst Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark amethyst.\nB—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark purple ground.\nA—Light purple (orchid).\nB—Silver-gray.",
+        "Light amethyst ground.\nA—Dark amethyst.\nB—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Lavender.\nB—Old rose or pink."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Medium green-blue.\nB—Light green-blue."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver-gray ground.\nA—Lavender.\nB—Old rose or pink.",
+        "Pearl-gray ground.\nA—Medium green-blue.\nB—Light green-blue."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1473,155 +1367,99 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 6 ()"
+    "innerHtml": "Border 6"
   },
   {
     "tag": "p",
     "innerHtml": "Pink or old rose ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Strawberry Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Peacock-blue.\nC—Gold."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Old Rose Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Copenhagen-blue.\nB—Pearl-gray.\nC—Pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Strawberry ground.\nA—Black.\nB—Peacock-blue.\nC—Gold.",
+        "Old rose ground.\nA—Copenhagen-blue.\nB—Pearl-gray.\nC—Pink."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Green-blue (Sapphire) Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange.\nC—Henna.\nor\nA—Burnt-orange.\nB—Black.\nC—Henna."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Amethyst.\nC—Old rose."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark green-blue (sapphire) ground.\nA—Black.\nB—Burnt-orange.\nC—Henna.\nor\nA—Burnt-orange.\nB—Black.\nC—Henna.",
+        "Green-blue ground.\nA—Black.\nB—Amethyst.\nC—Old rose."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Black.\nC—Apricot."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Nile-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst.\nB—Black.\nC—Corn-color."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Burnt-orange.\nC—Deep yellow tan (chamois)."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Yellow-green ground.\nA—Amethyst.\nB—Black.\nC—Apricot.",
+        "Nile-green ground.\nA—Light amethyst.\nB—Black.\nC—Corn-color.",
+        "Yellow-green ground.\nA—Amethyst.\nB—Burnt-orange.\nC—Deep yellow tan (chamois)."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Amethyst Ground—dark."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid).\nB—Pearl-gray.\nC—Pink."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Purple Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Pearl-gray or champagne.\nB—Black.\nC—Light amethyst."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Amethyst ground—dark.\nA—Light amethyst (orchid).\nB—Pearl-gray.\nC—Pink.",
+        "Purple ground.\nA—Pearl-gray or champagne.\nB—Black.\nC—Light amethyst."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Chestnut-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Tan.\nB—Golden-brown or burnt-orange.\nC—Topaz."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Seal-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Green-blue.\nB—Black.\nC—Champagne."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Chestnut-brown ground.\nA—Tan.\nB—Golden-brown or burnt-orange.\nC—Topaz.",
+        "Seal-brown ground.\nA—Green-blue.\nB—Black.\nC—Champagne."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Champagne Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light green.\nB—Black.\nC—Turquoise-blue or burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Buff Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown.\nB—Yellow-green.\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Champagne ground.\nA—Light green.\nB—Black.\nC—Turquoise-blue or burnt-orange.",
+        "Buff ground.\nA—Seal-brown.\nB—Yellow-green.\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark amethyst.\nB—Black or cream.\nC—Light amethyst."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Lavender.\nB—Amethyst.\nC—Pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Pearl-gray ground.\nA—Dark amethyst.\nB—Black or cream.\nC—Light amethyst.",
+        "Silver-gray ground.\nA—Lavender.\nB—Amethyst.\nC—Pink."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1637,79 +1475,58 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 7 ()"
+    "innerHtml": "Border 7"
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Peacock Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Henna or corn-color."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green.\nB—Light green-blue."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Peacock ground.\nA—Black.\nB—Burnt-orange.",
+        "Green-blue ground.\nA—Black.\nB—Henna or corn-color.",
+        "Green-blue ground.\nA—Light yellow-green.\nB—Light green-blue."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Amethyst Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst.\nB—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark amethyst ground.\nA—Light amethyst.\nB—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver Or Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Orchid."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver or pearl-gray ground.\nA—Amethyst.\nB—Orchid."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Emerald-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Scarlet (orange-red)."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light green.\nB—Corn-color."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Emerald-green ground.\nA—Black.\nB—Scarlet (orange-red).",
+        "Dark-green ground.\nA—Light green.\nB—Corn-color."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1725,107 +1542,72 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 8 ()"
+    "innerHtml": "Border 8"
   },
   {
     "tag": "p",
     "innerHtml": "Cream ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground Or Corn-color."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Salmon or burnt-orange or lavender."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Deep Yellow-cream Ground (Chamois)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown.\nB—Gold."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Apricot Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Terra-cotta or henna.\nB—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst.\nB—Pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep cream ground or corn-color.\nA—Black.\nB—Salmon or burnt-orange or lavender.",
+        "Deep yellow-cream ground (chamois).\nA—Seal-brown.\nB—Gold.",
+        "Apricot ground.\nA—Terra-cotta or henna.\nB—Orange.",
+        "Deep cream ground.\nA—Light amethyst.\nB—Pink."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Salmon ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Salmon Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Terra-cotta.\nB—Yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Salmon ground.\nA—Terra-cotta.\nB—Yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange or gold."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green.\nB—Cream."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Yellow-green ground.\nA—Black.\nB—Burnt-orange or gold.",
+        "Dark yellow-green ground.\nA—Light yellow-green.\nB—Cream."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Coral or strawberry ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Coral Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green or black.\nB—Laurel pink."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Strawberry Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Gold or peacock-blue."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Coral ground.\nA—Light yellow-green or black.\nB—Laurel pink.",
+        "Strawberry ground.\nA—Black.\nB—Gold or peacock-blue."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Seal-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Topaz or burnt-orange.\nB—Tan or deep cream."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Seal-brown ground.\nA—Topaz or burnt-orange.\nB—Tan or deep cream."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1841,87 +1623,59 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 9 ()"
+    "innerHtml": "Border 9"
   },
   {
     "tag": "p",
     "innerHtml": "Brown ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Chestnut-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Olive-green.\nB—Golden-brown.\nC—Tan."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Seal-brown Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Burnt-orange.\nB—Medium green-blue.\nC—Champagne."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Chestnut-brown ground.\nA—Olive-green.\nB—Golden-brown.\nC—Tan.",
+        "Seal-brown ground.\nA—Burnt-orange.\nB—Medium green-blue.\nC—Champagne."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Peacock-blue.\nB—Black.\nC—Burnt-orange or cherry."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Fawn Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown.\nB—Moss-green.\nC—Gold."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Peacock-blue.\nB—Black.\nC—Burnt-orange or cherry.",
+        "Fawn ground.\nA—Seal-brown.\nB—Moss-green.\nC—Gold."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Dark Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Medium green-blue.\nB—Light yellow-green.\nC—Cream or a yellow-tan (chamois)."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Nile-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid).\nB—Pink.\nC—Yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Dark yellow-green ground.\nA—Medium green-blue.\nB—Light yellow-green.\nC—Cream or a yellow-tan (chamois).",
+        "Nile-green ground.\nA—Light amethyst (orchid).\nB—Pink.\nC—Yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Turquoise-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Strawberry.\nB—Black.\nC—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Deep Green-blue Ground (Sapphire)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Fawn.\nB—Light amethyst (orchid).\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Turquoise-blue ground.\nA—Strawberry.\nB—Black.\nC—Orange.",
+        "Deep green-blue ground (sapphire).\nA—Fawn.\nB—Light amethyst (orchid).\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -1937,107 +1691,72 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 10 ()"
+    "innerHtml": "Border 10"
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Henna."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Peacock-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Burnt-orange or cherry."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep green-blue ground.\nA—Black.\nB—Henna.",
+        "Peacock-blue ground.\nA—Black.\nB—Burnt-orange or cherry."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Mahogany or terra-cotta ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Mahogany Ground Or Terra-cotta."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Burnt-orange.\nB—Cream."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Terra-cotta Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Deep turquoise-blue.\nB—Burnt-orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Mahogany ground or terra-cotta.\nA—Burnt-orange.\nB—Cream.",
+        "Terra-cotta ground.\nA—Deep turquoise-blue.\nB—Burnt-orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Gray-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Orange or gold."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Bronze-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Gold.\nB—Deep yellow-tan (chamois)."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Nile-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Lavender.\nB—Pale yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Gray-green ground.\nA—Black.\nB—Orange or gold.",
+        "Bronze-green ground.\nA—Gold.\nB—Deep yellow-tan (chamois).",
+        "Nile-green ground.\nA—Lavender.\nB—Pale yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Champagne Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown.\nB—Topaz or burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Tan."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black.\nB—Strawberry or heliotrope."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Champagne ground.\nA—Seal-brown.\nB—Topaz or burnt-orange.",
+        "Tan.\nA—Black.\nB—Strawberry or heliotrope."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Purple ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Amethyst Ground—dark."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Silver-gray.\nB—Light amethyst or pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Amethyst ground—dark.\nA—Silver-gray.\nB—Light amethyst or pink."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2053,99 +1772,71 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 11 ()"
+    "innerHtml": "Border 11"
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark amethyst—fringe the same.\nB—Light amethyst (orchid).\nC—Pink or light green-blue or Nile-green."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Sapphire-blue—fringe the same.\nB—Coral.\nC—Light yellow-green."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver-gray ground.\nA—Dark amethyst—fringe the same.\nB—Light amethyst (orchid).\nC—Pink or light green-blue or Nile-green.",
+        "Pearl-gray ground.\nA—Sapphire-blue—fringe the same.\nB—Coral.\nC—Light yellow-green."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Chestnut—fringe the same.\nB—Topaz.\nC—Golden-brown."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Champagne Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown—fringe the same.\nB—Burnt-orange.\nC—Deep green-blue (electric)."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Chestnut—fringe the same.\nB—Topaz.\nC—Golden-brown.",
+        "Champagne ground.\nA—Seal-brown—fringe the same.\nB—Burnt-orange.\nC—Deep green-blue (electric)."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Cream ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Burnt-orange.\nC—Peacock-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Corn Color Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark amethyst or wistaria—fringe the same.\nB—Light amethyst.\nC—Nile-green."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Old rose or coral—fringe the same.\nB—Tearose-pink.\nC—Yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep cream ground.\nA—Black—fringe the same.\nB—Burnt-orange.\nC—Peacock-blue.",
+        "Corn color ground.\nA—Dark amethyst or wistaria—fringe the same.\nB—Light amethyst.\nC—Nile-green.",
+        "Deep cream ground.\nA—Old rose or coral—fringe the same.\nB—Tearose-pink.\nC—Yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark green-blue—fringe the same.\nB—Amethyst.\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light green-blue ground.\nA—Dark green-blue—fringe the same.\nB—Amethyst.\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark yellow-green—fringe the same.\nB—Deep yellow-tan (chamois).\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light yellow-green ground.\nA—Dark yellow-green—fringe the same.\nB—Deep yellow-tan (chamois).\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2161,95 +1852,60 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 12 ()"
+    "innerHtml": "Border 12"
   },
   {
     "tag": "p",
     "innerHtml": "Pink or old rose ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Old Rose Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst—fringe the same.\nB—Black.\nC—Pink."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Salmon-pink Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Old rose—fringe the same.\nB—Pearl-gray.\nC—Copenhagen-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Strawberry Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Peacock-blue.\nC—Gold."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Old rose ground.\nA—Amethyst—fringe the same.\nB—Black.\nC—Pink.",
+        "Salmon-pink ground.\nA—Old rose—fringe the same.\nB—Pearl-gray.\nC—Copenhagen-blue.",
+        "Strawberry ground.\nA—Black—fringe the same.\nB—Peacock-blue.\nC—Gold."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Henna.\nC—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Turquoise-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst—fringe the same.\nB—Black.\nC—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Light Blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark blue—fringe the same.\nB—Light green.\nC—Yellow or deep cream."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep green-blue ground.\nA—Black—fringe the same.\nB—Henna.\nC—Burnt-orange.",
+        "Turquoise-blue ground.\nA—Amethyst—fringe the same.\nB—Black.\nC—Orange.",
+        "Light blue ground.\nA—Dark blue—fringe the same.\nB—Light green.\nC—Yellow or deep cream."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Green ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Medium yellow-green—fringe the same.\nB—Amethyst.\nC—Apricot."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Yellow-green Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Burnt-orange.\nC—Deep yellow-tan (chamois)."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light yellow-green ground.\nA—Medium yellow-green—fringe the same.\nB—Amethyst.\nC—Apricot.",
+        "Yellow-green ground.\nA—Black—fringe the same.\nB—Burnt-orange.\nC—Deep yellow-tan (chamois)."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Buff Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown.\nB—Yellow-green.\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Buff ground.\nA—Seal-brown.\nB—Yellow-green.\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2265,91 +1921,70 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 13 ()"
+    "innerHtml": "Border 13"
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Chestnut-brown—fringe the same.\nB—Olive-green.\nC—Topaz."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Champagne Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown—fringe the same.\nB—Topaz.\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Chestnut-brown—fringe the same.\nB—Olive-green.\nC—Topaz.",
+        "Champagne ground.\nA—Seal-brown—fringe the same.\nB—Topaz.\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Lavender ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Lavender Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark amethyst or wistaria—fringe the same.\nB—Wild-rose.\nC—Silver-gray."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Lavender Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Dark amethyst.\nC—Turquoise-blue or gold."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Lavender ground.\nA—Dark amethyst or wistaria—fringe the same.\nB—Wild-rose.\nC—Silver-gray.",
+        "Lavender ground.\nA—Black—fringe the same.\nB—Dark amethyst.\nC—Turquoise-blue or gold."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Yellow-pink ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Pale Yellow-pink Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark salmon—fringe the same.\nB—Amethyst.\nC—Yellow."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Pale Yellow-pink Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light amethyst (orchid).\nB—Nile-green.\nC—Yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Pale yellow-pink ground.\nA—Dark salmon—fringe the same.\nB—Amethyst.\nC—Yellow.",
+        "Pale yellow-pink ground.\nA—Light amethyst (orchid).\nB—Nile-green.\nC—Yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Deep cream ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Light yellow-green—fringe the same.\nB—Black.\nC—Orange."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep cream ground.\nA—Light yellow-green—fringe the same.\nB—Black.\nC—Orange."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Medium green-blue ground—fringe the same.\nB—Amethyst.\nC—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light green-blue ground.\nA—Medium green-blue ground—fringe the same.\nB—Amethyst.\nC—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2365,107 +2000,72 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 14 ()"
+    "innerHtml": "Border 14"
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Chestnut-brown—fringe the same.\nB—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Champagne Or Fawn Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown—fringe the same.\nB—Burnt-orange, topaz, yellow-green or deep turquoise-blue."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Chestnut-brown—fringe the same.\nB—Orange.",
+        "Champagne or fawn ground.\nA—Seal-brown—fringe the same.\nB—Burnt-orange, topaz, yellow-green or deep turquoise-blue."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Green-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Dark yellow-green—fringe the same.\nB—Deep yellow-tan (chamois)."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Peacock-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Henna or burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Japan-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Garnet."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Green-blue ground.\nA—Dark yellow-green—fringe the same.\nB—Deep yellow-tan (chamois).",
+        "Peacock-blue ground.\nA—Black—fringe the same.\nB—Henna or burnt-orange.",
+        "Japan-blue ground.\nA—Black—fringe the same.\nB—Garnet."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Wistaria—fringe the same.\nB—Lilac."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Silver Or Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Orchid."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver-gray ground.\nA—Wistaria—fringe the same.\nB—Lilac.",
+        "Silver or pearl-gray ground.\nA—Amethyst.\nB—Orchid."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Old-rose or pink ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tearose Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Coral pink—fringe the same.\nB—Deep cream."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Old-rose Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst—fringe the same.\nB—Yellow."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tearose ground.\nA—Coral pink—fringe the same.\nB—Deep cream.",
+        "Old-rose ground.\nA—Amethyst—fringe the same.\nB—Yellow."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Lavender ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Lavender Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst—fringe the same.\nB—Silver-gray."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Lavender ground.\nA—Amethyst—fringe the same.\nB—Silver-gray."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2481,107 +2081,72 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 15 ()"
+    "innerHtml": "Border 15"
   },
   {
     "tag": "p",
     "innerHtml": "Gray ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Silver-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Sapphire blue.\nB—Light blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Pearl-gray Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst or wistaria.\nB—Orchid or lilac."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Silver-gray ground.\nA—Sapphire blue.\nB—Light blue.",
+        "Pearl-gray ground.\nA—Amethyst or wistaria.\nB—Orchid or lilac."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Cream ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Deep Cream Ground Or Pale Apricot."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Mahogany—fringe the same.\nB—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Deep Yellow-cream Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Yellow-green—fringe the same.\nB—Gold, orange or salmon."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Deep cream ground or pale apricot.\nA—Mahogany—fringe the same.\nB—Burnt-orange.",
+        "Deep yellow-cream ground.\nA—Yellow-green—fringe the same.\nB—Gold, orange or salmon."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Tan ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Tan Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Brown—fringe the same.\nB—Topaz."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Champagne Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Seal-brown—fringe the same.\nB—Fawn."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Tan ground.\nA—Brown—fringe the same.\nB—Topaz.",
+        "Champagne ground.\nA—Seal-brown—fringe the same.\nB—Fawn."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Corn color ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Corn Color Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Burnt-orange.\nB—Orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Corn Color Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Amethyst.\nB—Nile-green."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Corn color ground.\nA—Burnt-orange.\nB—Orange.",
+        "Corn color ground.\nA—Amethyst.\nB—Nile-green."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Blue ground."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Light Blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Delft-blue—fringe the same.\nB—Silver-gray."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Turquoise-blue Ground."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A—Black—fringe the same.\nB—Strawberry."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Light blue ground.\nA—Delft-blue—fringe the same.\nB—Silver-gray.",
+        "Turquoise-blue ground.\nA—Black—fringe the same.\nB—Strawberry."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2597,103 +2162,26 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Border 16 ()"
+    "innerHtml": "Border 16"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Ground—ecru."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Seal-brown."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—warm Tan."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes A and C—Dark brown.\nStripes B and D—Golden-brown or orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—cool Tan (Buff)."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Green-blue (electric blue)."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—corn Color."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Burnt-orange or A and C black, and B and D orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—light Yellow-green."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Dark yellow-green."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—light Yellow-green."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—A and C dark yellow-green, B and D orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—medium Yellow-green."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—A and C black, B and D orange or salmon."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—old China-blue."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Japan-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—burnt-orange."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—A, black, B, C, D, peacock-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—tearose-pink."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Coral or laurel-pink."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—strawberry."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—silver-gray."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Amethyst, heliotrope or salmon pink."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Ground—Ecru.\nStripes—Seal-brown.",
+        "Ground—Warm tan.\nStripes A and C—Dark brown.\nStripes B and D—Golden-brown or orange.",
+        "Ground—Cool tan (buff).\nStripes—Green-blue (electric blue).",
+        "Ground—Corn color.\nStripes—Burnt-orange or A and C black, and B and D orange.",
+        "Ground—Light yellow-green.\nStripes—Dark yellow-green.",
+        "Ground—Light yellow-green.\nStripes—A and C dark yellow-green, B and D orange.",
+        "Ground—Medium yellow-green.\nStripes—A and C black, B and D orange or salmon.",
+        "Ground—Old China-blue.\nStripes—Japan-blue.",
+        "Ground—Burnt-orange.\nStripes—A, black, B, C, D, peacock-blue.",
+        "Ground—Tearose-pink.\nStripes—Coral or laurel-pink.",
+        "Ground—Strawberry.\nStripes—Black.",
+        "Ground—Silver-gray.\nStripes—Amethyst, heliotrope or salmon pink."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -2720,116 +2208,25 @@
     "innerHtml": "Borders 17 And 18 (Figs.  And .)"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Ground—tan."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Hunter-green or dark brown."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—tan."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripe A—Dark brown.\nStripes B—Golden-brown, topaz or orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—chestnut-brown."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripe A—Topaz.\nStripes B—Tan."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—seal-brown."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Champagne, orange or green."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—green-blue."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Cream, silver-gray or black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—peacock-blue."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Burnt-orange."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—delft Or Copenhagen-blue."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Silver or pearl-gray, or light yellow-green."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—strawberry."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—white Or Cream."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Black or some good color."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—salmon-pink."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Terra-cotta."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—yellow-green."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Orange edged with black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—purple."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Lavender or silver-gray edged with black."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—burnt-orange."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Dark brown, olive-green, black or peacock-blue."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Ground—old-rose Or Coral."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Stripes—Amethyst, deep yellow-green or black."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Ground—Tan.\nStripes—Hunter-green or dark brown.",
+        "Ground—Tan.\nStripe A—Dark brown.\nStripes B—Golden-brown, topaz or orange.",
+        "Ground—Chestnut-brown.\nStripe A—Topaz.\nStripes B—Tan.",
+        "Ground—Seal-brown.\nStripes—Champagne, orange or green.",
+        "Ground—Green-blue.\nStripes—Cream, silver-gray or black.",
+        "Ground—Peacock-blue.\nStripes—Burnt-orange.",
+        "Ground—Delft or Copenhagen-blue.\nStripes—Silver or pearl-gray, or light yellow-green.",
+        "Ground—Strawberry.\nStripes—Black.",
+        "Ground—White or cream.\nStripes—Black or some good color.",
+        "Ground—Salmon-pink.\nStripes—Terra-cotta.",
+        "Ground—Yellow-green.\nStripes—Orange edged with black.",
+        "Ground—Purple.\nStripes—Lavender or silver-gray edged with black.",
+        "Ground—Burnt-orange.\nStripes—Dark brown, olive-green, black or peacock-blue.",
+        "Ground—Old-rose or coral.\nStripes—Amethyst, deep yellow-green or black."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -2838,10 +2235,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter 7."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -2920,44 +2313,21 @@
     "innerHtml": "To Knit The Cuffs, Sleeves And Body Of The Jacket."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit The Cuff Directly In The Center Of The Rake So As To Allow Room For Adding The Same Number Of Stitches On Either End In Shaping The Sleeve. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 44 Nails, 22 In Each Row. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2½ Inches Of Double Stitch () To Make The Cuff, A, B, D, C, ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "To Shape The Sleeve, C, D, E, F, When Using Four-fold Yarn, Increase The Number Of Stitches By Adding One More Nail At The End Of Every Row Of Winding Until All The Nails Of The Rake Are In Use. Use Single Stitch. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "For A Looser Sleeve, Or For Two-fold Yarn, Add Two Nails At A Time For The First 6 Inches, And Then One Nail At A Time For The Rest Of The Sleeve. (See Dotted Line In .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 33 Inches—single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Off Stitches As Described In  Of Chapter 4, To Shape The Second Sleeve. Where You Added One Nail At A Time In Shaping The First Sleeve, Cast Off One Nail At A Time In Shaping The Second Sleeve. If You Added Two Nails, Cast Stitches Off Two Nails At A Time, Until Only 44 Nails, 22 In Each Row, Are Left."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2½ Inches Double Stitch To Make The Second Cuff."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast The Knitting From The Rake As Described In  Of Chapter 4."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up Loose Stitches At The Beginning Of The First Cuff As Described In  Of Chapter 4, And Sew Up The Seams Of The Sleeves."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit the cuff directly in the center of the rake so as to allow room for adding the same number of stitches on either end in shaping the sleeve. (See .)",
+        "Cast stitches on 44 nails, 22 in each row. (See .)",
+        "Knit 2½ inches of double stitch  to make the cuff, A, B, D, C, .",
+        "To shape the sleeve, C, D, E, F, when using four-fold yarn, increase the number of stitches by adding one more nail at the end of every row of winding until all the nails of the rake are in use. Use single stitch. (See .)",
+        "For a looser sleeve, or for two-fold yarn, add two nails at a time for the first 6 inches, and then one nail at a time for the rest of the sleeve. (See dotted line in .)",
+        "Knit 33 inches—single stitch.",
+        "Cast off stitches as described in  of Chapter 4, to shape the second sleeve. Where you added one nail at a time in shaping the first sleeve, cast off one nail at a time in shaping the second sleeve. If you added two nails, cast stitches off two nails at a time, until only 44 nails, 22 in each row, are left.",
+        "Knit 2½ inches double stitch to make the second cuff.",
+        "Cast the knitting from the rake as described in  of Chapter 4.",
+        "Take up loose stitches at the beginning of the first cuff as described in  of Chapter 4, and sew up the seams of the sleeves."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -2965,35 +2335,21 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit Collar No. 1. ()"
+    "innerHtml": "To Knit Collar No. 1."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On Twelve Nails, Six In Each Row, And Knit 7 Inches, Double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "With The Next Winding Of Yarn Add 24 Nails, All At One Time, To The Right Of The Knitting, To Form The Wide Part Of The Collar (H-i). Eighteen Nails In Each Row Are Now Being Used."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue Knitting For 18 Inches With Double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off 24 Nails Added Above, Leaving Twelve Nails, Six In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue Knitting For 7 Inches—double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Crochet Around The Outer Edge Of The Collar, Using Single Crochet Stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on twelve nails, six in each row, and knit 7 inches, double stitch.",
+        "With the next winding of yarn add 24 nails, all at one time, to the right of the knitting, to form the wide part of the collar (H-I). Eighteen nails in each row are now being used.",
+        "Continue knitting for 18 inches with double stitch.",
+        "Cast stitches off 24 nails added above, leaving twelve nails, six in each row.",
+        "Continue knitting for 7 inches—double stitch.",
+        "Cast knitting from the rake.",
+        "Crochet around the outer edge of the collar, using single crochet stitch."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3028,16 +2384,14 @@
     "innerHtml": "Fig. 38"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Sew The Collar To The Body Of The Jacket As Indicated In The Drawing. (See Directions In , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Fold Collar Back Along The Dotted Line."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Make A Cord And Tassels And Fasten Under The Collar. A Very Good Cord Can Be Knitted On Four Nails Of The Rake, Two In Each Row, Using Single Stitch, Or A “Spool Knitter” Can Be Made From A Large Empty Spool With Four 1-Inch No. 16 Wire Brads Driven In Around The Opening At One End. The Winding Of A Spool Knitter Is Similar To The Winding Of The Round Cap Rake, . (See .)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Sew the collar to the body of the jacket as indicated in the drawing. (See directions in , Chapter 4.)",
+        "Fold collar back along the dotted line.",
+        "Make a cord and tassels and fasten under the collar. A very good cord can be knitted on four nails of the rake, two in each row, using single stitch, or a “spool knitter” can be made from a large empty spool with four 1-inch No. 16 wire brads driven in around the opening at one end. The winding of a spool knitter is similar to the winding of the round cap rake, . (See .)"
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3045,51 +2399,25 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit Collar No. 2. ()"
+    "innerHtml": "To Knit Collar No. 2."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 40 Nails, Twenty In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Double Stitch For 7 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off 24 Nails At One End Of Knitting To Produce M N, ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "On The Next Winding Add These 24 Nails Again."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 18 Inches—double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Off The Same 24 Nails Again, Thus Producing O P, ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "On The Next Winding Add These 24 Nails Again."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 7 Inches—double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Crochet Once Around The Outer Edge Of The Collar With A Single Crochet Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "After The Collar Is Sewed To The Body Of The Jacket It Is Folded Back As Indicated By The Dotted Line In The Drawing, And Fastened With Crochet Covered Buttons And Loops. (See .)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 40 nails, twenty in each row.",
+        "Knit double stitch for 7 inches.",
+        "Cast stitches off 24 nails at one end of knitting to produce M N, .",
+        "On the next winding add these 24 nails again.",
+        "Knit 18 inches—double stitch.",
+        "Cast off the same 24 nails again, thus producing O P, .",
+        "On the next winding add these 24 nails again.",
+        "Knit 7 inches—double stitch.",
+        "Cast knitting from the rake.",
+        "Crochet once around the outer edge of the collar with a single crochet stitch.",
+        "After the collar is sewed to the body of the jacket it is folded back as indicated by the dotted line in the drawing, and fastened with crochet covered buttons and loops. (See .)"
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3177,51 +2505,25 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit The Back Of The Sweater ()"
+    "innerHtml": "To Knit The Back Of The Sweater"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On About 80 Nails, 40 In Each Row, As Described In ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2½ Inches Of Triple Stitch. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change From Triple Stitch To Double Stitch By Winding Rake And Lifting The Two Lower Threads Over The Upper Thread And Off The Rake. (See , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 10½ Inches Double Stitch. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Four Nails At Both End Of Knitting, A-a."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 1¼ Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Two Nails At Each End Of Knitting, B-b."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 1¼ Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Two More Nails At Each End, C-c."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Twenty Nails, Ten Nails In Each Row, Directly In The Center Of The Knitting To Make The Back Of The Neck. (See , Chapter 4.)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on about 80 nails, 40 in each row, as described in .",
+        "Knit 2½ inches of triple stitch. (See .)",
+        "Change from triple stitch to double stitch by winding rake and lifting the two lower threads over the upper thread and off the rake. (See , Chapter 4.)",
+        "Knit 10½ inches double stitch. (See .)",
+        "Cast stitches off four nails at both end of knitting, A-A.",
+        "Knit 1¼ inches.",
+        "Cast stitches off two nails at each end of knitting, B-B.",
+        "Knit 1¼ inches.",
+        "Cast stitches off two more nails at each end, C-C.",
+        "Knit 2 inches.",
+        "Cast stitches off twenty nails, ten nails in each row, directly in the center of the knitting to make the back of the neck. (See , Chapter 4.)"
+      ]
+    }
   },
   {
     "tag": "p",
@@ -3236,56 +2538,34 @@
     "innerHtml": "To Knit The Front Of Sweater Refer To ."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit The Shoulders Straight For 3 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Then, To Make The V Neck, Every Time The Yarn Is Wound Toward The Center, Add One Nail On Each Shoulder Piece Until The Two Parts Of The Knitting Meet In The Center At E."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Add Two Nails At C And B On Both Armholes."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Add Four Nails At A On Both Armholes."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "If The Sweater Is To Be Left Open Down The Front For A Few Inches And Laced With A Cord, Continue Using The Two Balls Of Yarn, Winding Each From The Side Of The Sweater To The Center Only And Back To The Side."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit the shoulders straight for 3 inches.",
+        "Then, to make the V neck, every time the yarn is wound toward the center, add one nail on each shoulder piece until the two parts of the knitting meet in the center at E.",
+        "Add two nails at C and B on both armholes.",
+        "Add four nails at A on both armholes.",
+        "If the sweater is to be left open down the front for a few inches and laced with a cord, continue using the two balls of yarn, winding each from the side of the sweater to the center only and back to the side."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "If the sweater is to be closed from the point E down, cut off one ball when the last winding brings it to the armhole at A. Continue knitting the full width of the front with the other ball."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit 10½ Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change From The Double Stitch To Triple Stitch For The Band By Winding Once Across The Rake And Back To Make Three Threads Around Each Nail Before Lifting The Lowest Thread Over The Upper Two And Off."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2½ Inches Triple Stitch, To Correspond To The Band At The Bottom Of The Back Of The Sweater."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake. (See , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up The Loose Stitches At The Beginning Of The Knitting At The Lower Edge Of The Back. (See , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sew Up The Under Arm Seams. (See , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Crochet Around The Armholes And The Neck With A Single Crochet Stitch. If The Neck Has Been Left Open Down The Front For A Few Inches, Crochet Around This Opening, Making Loops For The Cord Lacing."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit 10½ inches.",
+        "Change from the double stitch to triple stitch for the band by winding once across the rake and back to make three threads around each nail before lifting the lowest thread over the upper two and off.",
+        "Knit 2½ inches triple stitch, to correspond to the band at the bottom of the back of the sweater.",
+        "Cast knitting from the rake. (See , Chapter 4.)",
+        "Take up the loose stitches at the beginning of the knitting at the lower edge of the back. (See , Chapter 4.)",
+        "Sew up the under arm seams. (See , Chapter 4.)",
+        "Crochet around the armholes and the neck with a single crochet stitch. If the neck has been left open down the front for a few inches, crochet around this opening, making loops for the cord lacing."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -3368,16 +2648,14 @@
     "innerHtml": "To make the body of the sweater, follow the directions given for the boy’s slipover sweater in , with the following changes:"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit The Bands At The Bottom With Double Stitch Instead Of Triple Stitch, And The Body Of The Sweater With Single Stitch Instead Of Double."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Off Only Sixteen Nails At The Back Of The Neck, Eight In Each Row. (See , Chapter 8.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Leave The Sweater Open All The Way Down The Front; That Is, Continue Using Two Balls Of Yarn, And Wind From The Sides To The Center Only And Back To The Sides. (See , Chapter 8.)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit the bands at the bottom with double stitch instead of triple stitch, and the body of the sweater with single stitch instead of double.",
+        "Cast off only sixteen nails at the back of the neck, eight in each row. (See , Chapter 8.)",
+        "Leave the sweater open all the way down the front; that is, continue using two balls of yarn, and wind from the sides to the center only and back to the sides. (See , Chapter 8.)"
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3385,19 +2663,17 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit The Sleeves ()"
+    "innerHtml": "To Knit The Sleeves"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Begin To Knit The Sleeve At The Top. Cast Stitches On Sixteen Nails In The Center Of The Rake, Eight Nails In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Using The Single Stitch, Add Two Nails In Each Winding Until About 60 Nails Are In Use, 30 Nails In Each Row. The Sleeve Should Measure About 10 Inches At E F, ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Five Rows, Then Cast A Stitch Off One Nail On One Side Of The Sleeve."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Begin to knit the sleeve at the top. Cast stitches on sixteen nails in the center of the rake, eight nails in each row.",
+        "Using the single stitch, add two nails in each winding until about 60 nails are in use, 30 nails in each row. The sleeve should measure about 10 inches at E F, .",
+        "Knit five rows, then cast a stitch off one nail on one side of the sleeve."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3408,16 +2684,14 @@
     "innerHtml": "Fig. 41. Child’s Sweater Jacket Made by a Patient at Kenilworth Hospital."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit Five Rows, Then Cast A Stitch Off One Nail On The Other Side."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Four Rows, Cast A Stitch Off One Nail On The First Side Of The Sleeve."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Four Rows, Cast A Stitch Off One Nail On The Other Side."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit five rows, then cast a stitch off one nail on the other side.",
+        "Knit four rows, cast a stitch off one nail on the first side of the sleeve.",
+        "Knit four rows, cast a stitch off one nail on the other side."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3440,20 +2714,15 @@
     "innerHtml": "Fig. 45. Collar for slipover sweater"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Repeat 5 And 6 For Three Times; That Is, Until Six More Nails Have Been Dropped, Three On Each Side Of The Sleeve."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Then Every Three Rows Of Knitting, Drop Two Nails At A Time, First On One Side Of The Sleeve And Then On The Other, Until Only 42 Nails Remain In Use, 21 In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "When The Sleeve Measures 12 Inches From D To F, Change To A Double Stitch On The Next Winding. Knit 2½ Inches Double Stitch For The Cuff."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast The Knitting From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Repeat 5 and 6 for three times; that is, until six more nails have been dropped, three on each side of the sleeve.",
+        "Then every three rows of knitting, drop two nails at a time, first on one side of the sleeve and then on the other, until only 42 nails remain in use, 21 in each row.",
+        "When the sleeve measures 12 inches from D to F, change to a double stitch on the next winding. Knit 2½ inches double stitch for the cuff.",
+        "Cast the knitting from the rake."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3461,39 +2730,25 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit Collar And Bands ()"
+    "innerHtml": "To Knit Collar And Bands"
   },
   {
     "tag": "p",
     "innerHtml": "The collar and the bands for down the front are made in one piece."
   },
   {
-    "tag": "h5",
-    "innerHtml": "To Find The Exact Length Required, Measure From The Bottom Edge Of The Front Of The Sweater To Point E At The Neck. (See .) This Gives The Length A-b Of The Band Shown In . Measure From E Around The Neck Of The Sweater To The Center Of The Back. This Gives The Length C-d, , Of One-half Of The Collar."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On Twelve Nails, Six In Each Row. Knit 2½ Inches Of Band A-b With Double Stitch, And The Rest Of The Length Single Stitch. Remember To Provide For The Buttonholes. (See Directions Given In , Chapter 4.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "When The Band Is The Required Length, With The Next Winding Add 24 Nails To The Right Of The Knitting, Twelve Nails In Each Row, Making 36 Nails In All. Knit The Collar Until A Piece Of The Required Length Has Been Made."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches From The 24 Nails Added Above For The Collar."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit The Second Band, Using Double Stitch For The Last 2½ Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up The Loose Stitches At The Beginning Of The First Band, As Described In  Of Chapter 4. Crochet Around The Outer Edge Of The Collar With A Single Crochet Stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To find the exact length required, measure from the bottom edge of the front of the sweater to point E at the neck. (See .) This gives the length A-B of the band shown in . Measure from E around the neck of the sweater to the center of the back. This gives the length C-D, , of one-half of the collar.",
+        "Cast stitches on twelve nails, six in each row. Knit 2½ inches of band A-B with double stitch, and the rest of the length single stitch. Remember to provide for the buttonholes. (See directions given in , Chapter 4.)",
+        "When the band is the required length, with the next winding add 24 nails to the right of the knitting, twelve nails in each row, making 36 nails in all. Knit the collar until a piece of the required length has been made.",
+        "Cast stitches from the 24 nails added above for the collar.",
+        "Knit the second band, using double stitch for the last 2½ inches.",
+        "Cast knitting from the rake.",
+        "Take up the loose stitches at the beginning of the first band, as described in  of Chapter 4. Crochet around the outer edge of the collar with a single crochet stitch."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3501,23 +2756,18 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit The Pockets ()"
+    "innerHtml": "To Knit The Pockets"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 30 Nails."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 2¼ Inches Of Single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 1 Inch Of Double Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 30 nails.",
+        "Knit 2¼ inches of single stitch.",
+        "Knit 1 inch of double stitch.",
+        "Cast knitting from the rake."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3528,8 +2778,12 @@
     "innerHtml": "To Knit The Belt."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit A Length As Long As Desired, Using Twelve Nails And A Single Stitch. Make Two Buttonholes, 3 Inches Apart, Near The End That Will Wrap Over. This End May Be Pointed By Casting Off One Stitch On Each Row Of Knitting For The Last Eight Or Ten Rows."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit a length as long as desired, using twelve nails and a single stitch. Make two buttonholes, 3 inches apart, near the end that will wrap over. This end may be pointed by casting off one stitch on each row of knitting for the last eight or ten rows."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -3540,20 +2794,15 @@
     "innerHtml": "_ shows the pattern for a collar when the sweater is made slipover style, closed down the front._"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On Four Nails, Two In Each Row. Keep One Side, A-c, Of Knitting Straight. On The Other Side Add Two Nails At A Time Until The Collar Is Wide Enough. About Twenty Nails In Each Row Makes A Good Collar. Use Single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue Knitting On These 40 Nails Until The Straight Edge Of The Collar Is Long Enough To Go From The Point Of The V In The Front, Around To The Upper End Of The V On The Other Side."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Two Nails At A Time, To Slope The Collar To Correspond To The Other End, Until Only Four Nails Remain."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake. Crochet Around The Outer Edge Of The Collar With A Single Crochet Stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on four nails, two in each row. Keep one side, A-C, of knitting straight. On the other side add two nails at a time until the collar is wide enough. About twenty nails in each row makes a good collar. Use single stitch.",
+        "Continue knitting on these 40 nails until the straight edge of the collar is long enough to go from the point of the V in the front, around to the upper end of the V on the other side.",
+        "Cast stitches off two nails at a time, to slope the collar to correspond to the other end, until only four nails remain.",
+        "Cast knitting from the rake. Crochet around the outer edge of the collar with a single crochet stitch."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -3576,16 +2825,14 @@
     "innerHtml": "The following three styles of men’s sweaters (Figs. , , , , ) are described in this chapter:"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Buttoned Down The Front, With Sleeves, Collar And Pockets."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Slipover, With Sleeves, Collar And Pockets."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Slipover, Sleeveless And Without Collar. (See Boy’s Slipover Sweater, .)"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Buttoned down the front, with sleeves, collar and pockets.",
+        "Slipover, with sleeves, collar and pockets.",
+        "Slipover, sleeveless and without collar. (See Boy’s Slipover Sweater, .)"
+      ]
+    }
   },
   {
     "tag": "h3",
@@ -3609,7 +2856,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "If heavy sweater yarn is used it will require 42 ounces, and the sweater must be knitted on rake No. 2. (.)"
+    "innerHtml": "If heavy sweater yarn is used it will require 42 ounces, and the sweater must be knitted on rake No. 2."
   },
   {
     "tag": "hr",
@@ -3656,20 +2903,15 @@
     "innerHtml": "Compare  with . It will be seen at once that there is a great similarity."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 144 Nails, 72 In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 3 Inches Of Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change To Single Stitch As Described In  Of Chapter 4, And Knit 25½ To 28½ Inches, Depending On The Desired Length Ab Of The Sweater. (See .)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches From 28 Nails, Fourteen In Each Row, In The Center Of The Knitting To Make The Back Of The Neck (C). The Knitting Is Now In Two Parts And Two Balls Of Yarn Must Be Used."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 144 nails, 72 in each row.",
+        "Knit 3 inches of triple cross-stitch.",
+        "Change to single stitch as described in  of Chapter 4, and knit 25½ to 28½ inches, depending on the desired length AB of the sweater. (See .)",
+        "Cast stitches from 28 nails, fourteen in each row, in the center of the knitting to make the back of the neck (C). The knitting is now in two parts and two balls of yarn must be used."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3688,8 +2930,12 @@
     "innerHtml": "To Knit The Front Of The Sweater."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit The Shoulder Pieces Straight For 3 Inches, ."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit the shoulder pieces straight for 3 inches, ."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3708,8 +2954,12 @@
     "innerHtml": "Fig. 47 Fig. 48"
   },
   {
-    "tag": "h5",
-    "innerHtml": "To Shape The V Neck (E-f) On Every Sixth Row When The Yarn Is Wound On The Nails Toward The Center, Add One Nail On Each Shoulder Piece Until The Two Parts Of The Knitting Meet In The Center."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To shape the V neck (E-F) on every sixth row when the yarn is wound on the nails toward the center, add one nail on each shoulder piece until the two parts of the knitting meet in the center."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -3724,24 +2974,16 @@
     "innerHtml": "Fig. 49"
   },
   {
-    "tag": "h5",
-    "innerHtml": "As The Sweater Is To Be Buttoned Down The Front, Continue To Use Two Balls Of Yarn, Winding Each From The Side Of The Sweater To The Center Only And Back To The Side."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Until The Fronts Measure The Same As The Back, Remembering To Make The Last 3 Inches With Triple Cross-stitch To Correspond To The Band At The Bottom Of The Back.  Of Chapter 4 Describes How To Change From Single To Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up The Loose Stitches At The Lower Edge Of The Back As Described In  Of Chapter 4."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sew Up The Side Seams As Described In  Of Chapter 4. Make Opening Gh For Sleeves About 7½ To 9 Inches."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "As the sweater is to be buttoned down the front, continue to use two balls of yarn, winding each from the side of the sweater to the center only and back to the side.",
+        "Knit until the fronts measure the same as the back, remembering to make the last 3 inches with triple cross-stitch to correspond to the band at the bottom of the back.  of Chapter 4 describes how to change from single to triple cross-stitch.",
+        "Cast knitting from the rake.",
+        "Take up the loose stitches at the lower edge of the back as described in  of Chapter 4.",
+        "Sew up the side seams as described in  of Chapter 4. Make opening GH for sleeves about 7½ to 9 inches."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3752,36 +2994,29 @@
     "innerHtml": "To Knit The Sleeves."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On About 100 Nails, 50 In Each Row, To Produce The Straight Line Ab, ."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on about 100 nails, 50 in each row, to produce the straight line AB, ."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "Note:—The sleeve at the top should measure the same as the armhole."
   },
   {
-    "tag": "h5",
-    "innerHtml": "To Shape The Sleeve, Cast Stitch From One Nail At A Time Every Six Rows Of Knitting, First On One Side Of The Sleeve And Then On The Other, As Indicated On The Drawing. Then Every Five Rows, Every Four Rows, Every Three Rows, Every Two Rows, Until The Sleeve Is Long Enough (About 18 To 22 Inches) And Narrow Enough At The Cuff (About 8 Inches). On The Very Last Row At This Point Three Nails Should Be Dropped Altogether On Each Side Of The Sleeve. Watch Carefully The Shaping Of The Sleeve As You Narrow So As Not To Get It Too Tight At Any Point."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change To Triple Cross-stitch By Winding Once Across The Rake And Back, To Make Three Threads Around Each Nail Before Lifting The Lower Thread Over The Upper Two And Off."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 3 Inches Of Triple Cross-stitch For The Cuff."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast The Knitting Off The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sew Up The Seam Of The Sleeve, And Sew The Sleeve In The Armhole Of The Sweater So That The Seam In The Sleeve And The Side Seam Of The Sweater Come Together. (See  Of Chapter 4 For Directions For Sewing.)"
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Make Other Sleeve To Match."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "To shape the sleeve, cast stitch from one nail at a time every six rows of knitting, first on one side of the sleeve and then on the other, as indicated on the drawing. Then every five rows, every four rows, every three rows, every two rows, until the sleeve is long enough (about 18 to 22 inches) and narrow enough at the cuff (about 8 inches). On the very last row at this point three nails should be dropped altogether on each side of the sleeve. Watch carefully the shaping of the sleeve as you narrow so as not to get it too tight at any point.",
+        "Change to triple cross-stitch by winding once across the rake and back, to make three threads around each nail before lifting the lower thread over the upper two and off.",
+        "Knit 3 inches of triple cross-stitch for the cuff.",
+        "Cast the knitting off the rake.",
+        "Sew up the seam of the sleeve, and sew the sleeve in the armhole of the sweater so that the seam in the sleeve and the side seam of the sweater come together. (See  of Chapter 4 for directions for sewing.)",
+        "Make other sleeve to match."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3816,52 +3051,23 @@
     "innerHtml": "Double Collar And Bands."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 32 Nails, Sixteen In Each Row, To Make Ab, ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 3 Inches Of Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change To Single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Measure The Edge Of One Of The Front Pieces Of The Sweater To Find Out How Long The Bands (Bc) Must Be. Decide How Far Apart The Buttonholes Are To Come. To Make The Buttonholes, Cast Off Stitches On Nails, 6, 7, 8, 9, 10, 11,—22, 23, 24, 25, 26, 27, And Add Them Again On The Next Winding."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "When The Band Is Long Enough, Increase The Width Of The Knitting To Make The Collar By Adding One Nail At Each End On Every Sixth Or Seventh Row Of Knitting Until The Distance C D, , Measures The Same As The Side E F Of The V Neck Of The Sweater Front Shown In ."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Straight For About 10 Inches, Which Is Usually The Distance Around The Neck Of The Sweater, Measured From Point E In  On One Side, To The Same Point On The Other."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitch Off One Nail At Each End On Every Sixth Or Seventh Row Of Knitting, Reversing What You Did In Section 5 Above, Until There Are Again Only 32 Nails In Use."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit The Second Band, Omitting The Buttonholes. Make The Last 3 Inches With Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up The Loose Stitches At The Beginning Of The First Band."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Double The Collar And Bands Along The Dotted Line, Being Sure That The Two Parts Of The Buttonholes Come Together. Sew To The Body Of The Sweater As Indicated In The Diagram, Finding The Exact Center Of The Collar And Of The Sweater, And Sewing From The Center To The Fronts."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Crochet The Buttonholes, Or Finish Them With A Buttonhole Stitch, Using A Single Strand Of Yarn."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 32 nails, sixteen in each row, to make AB, .",
+        "Knit 3 inches of triple cross-stitch.",
+        "Change to single stitch.",
+        "Measure the edge of one of the front pieces of the sweater to find out how long the bands (BC) must be. Decide how far apart the buttonholes are to come. To make the buttonholes, cast off stitches on nails, 6, 7, 8, 9, 10, 11,—22, 23, 24, 25, 26, 27, and add them again on the next winding.",
+        "When the band is long enough, increase the width of the knitting to make the collar by adding one nail at each end on every sixth or seventh row of knitting until the distance C D, , measures the same as the side E F of the V neck of the sweater front shown in .",
+        "Knit straight for about 10 inches, which is usually the distance around the neck of the sweater, measured from point E in  on one side, to the same point on the other.",
+        "Cast stitch off one nail at each end on every sixth or seventh row of knitting, reversing what you did in section 5 above, until there are again only 32 nails in use.",
+        "Knit the second band, omitting the buttonholes. Make the last 3 inches with triple cross-stitch.",
+        "Cast knitting from the rake.",
+        "Take up the loose stitches at the beginning of the first band.",
+        "Double the collar and bands along the dotted line, being sure that the two parts of the buttonholes come together. Sew to the body of the sweater as indicated in the diagram, finding the exact center of the collar and of the sweater, and sewing from the center to the fronts.",
+        "Crochet the buttonholes, or finish them with a buttonhole stitch, using a single strand of yarn."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3872,40 +3078,30 @@
     "innerHtml": "Single Collar And Bands."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Knit Band On Sixteen Nails, Eight In Each Row. Cast Stitches Off Nails 6, 7, 8, 9, 10, 11, And Add Them Again On The Next Winding, To Make The Buttonholes. Knit The First 3 Inches With Triple Cross-stitch, And Then Change To Single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "When The Band Is Long Enough, As Described In , For The Double Collar, Increase The Width Of The Knitting To Form The Collar By Adding One Nail On The Right Only Every Five Or Six Rows, Until The Collar Is Wide Enough."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit The Collar Straight For About 10 Inches, As Described In , For The Double Collar."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Knit band on sixteen nails, eight in each row. Cast stitches off nails 6, 7, 8, 9, 10, 11, and add them again on the next winding, to make the buttonholes. Knit the first 3 inches with triple cross-stitch, and then change to single stitch.",
+        "When the band is long enough, as described in , for the double collar, increase the width of the knitting to form the collar by adding one nail on the right only every five or six rows, until the collar is wide enough.",
+        "Knit the collar straight for about 10 inches, as described in , for the double collar."
+      ]
+    }
   },
   {
     "tag": "p",
     "innerHtml": "To be sure of your measurements, lay the collar and band along the edge to which it is to be sewed, noting that with this single collar and bands, it is the straight edge which comes next to the body of the sweater."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off The Nails Added Above, One Nail Every Five Or Six Rows, Reversing What You Did In , Until Only Sixteen Nails Remain In Use."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit The Second Band, Omitting The Buttonholes. Knit The Last 3 Inches With Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Take Up The Loose Stitches At The Beginning Of The First Band."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sew The Long, Straight Edge Of Bands And Collar To The Body Of The Sweater, And Fold The Collar Back Along The Dotted Line."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches off the nails added above, one nail every five or six rows, reversing what you did in , until only sixteen nails remain in use.",
+        "Knit the second band, omitting the buttonholes. Knit the last 3 inches with triple cross-stitch.",
+        "Cast knitting from the rake.",
+        "Take up the loose stitches at the beginning of the first band.",
+        "Sew the long, straight edge of bands and collar to the body of the sweater, and fold the collar back along the dotted line."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -3916,24 +3112,16 @@
     "innerHtml": "Pockets."
   },
   {
-    "tag": "h5",
-    "innerHtml": "For A Pocket 5 Inches Wide, Cast On About 70 Stitches, 35 Nails In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 3½ Inches Single Stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 1 Inch Triple Cross-stitch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Sew Pockets To The Front Of The Sweater Just Above The Band Of Triple Cross-stitch."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "For a pocket 5 inches wide, cast on about 70 stitches, 35 nails in each row.",
+        "Knit 3½ inches single stitch.",
+        "Knit 1 inch triple cross-stitch.",
+        "Cast knitting from the rake.",
+        "Sew pockets to the front of the sweater just above the band of triple cross-stitch."
+      ]
+    }
   },
   {
     "tag": "h3",
@@ -3948,12 +3136,13 @@
     "innerHtml": "Follow the foregoing directions for sweater No. 1, with the following changes:"
   },
   {
-    "tag": "h5",
-    "innerHtml": "When The Two Parts Of The Front Have Come Together In The Center, After Shaping The V Neck, Drop One Ball Of Yarn When Winding Brings It To The Armhole. Continue Knitting The Full Width Of The Front With The Other Ball."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "To Make A Double Collar, Omit The Bands And Cast On Eight Stitches, Four In Each Row, And Knit As Directed For The Double Collar, Ending With Eight Nails. Cast Knitting From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "When the two parts of the front have come together in the center, after shaping the V neck, drop one ball of yarn when winding brings it to the armhole. Continue knitting the full width of the front with the other ball.",
+        "To make a double collar, omit the bands and cast on eight stitches, four in each row, and knit as directed for the double collar, ending with eight nails. Cast knitting from the rake."
+      ]
+    }
   },
   {
     "tag": "p",
@@ -3978,10 +3167,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter 11."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -4017,7 +3202,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "No. 4 (⁵⁄₁₆ inch—¹⁰⁄₁₆ inch) (.)"
+    "innerHtml": "No. 4 (⁵⁄₁₆ inch—¹⁰⁄₁₆ inch)"
   },
   {
     "tag": "hr",
@@ -4041,27 +3226,19 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit Crown Of Cap ()"
+    "innerHtml": "To Knit Crown Of Cap"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 60 Nails, 30 In Each Row, Leaving The Same Number Of Empty Nails At Both Ends Of The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit With Double Stitch, Adding Two Nails At The End Of Each Row Until 84 Nails Are In Use."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 12 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches Off Two Nails At The End Of Each Row Of Knitting Until There Are Again Only 60 Nails In Use, 30 In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 60 nails, 30 in each row, leaving the same number of empty nails at both ends of the rake.",
+        "Knit with double stitch, adding two nails at the end of each row until 84 nails are in use.",
+        "Knit 12 inches.",
+        "Cast stitches off two nails at the end of each row of knitting until there are again only 60 nails in use, 30 in each row.",
+        "Cast knitting from the rake."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -4069,23 +3246,18 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "To Knit Bands ()"
+    "innerHtml": "To Knit Bands"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On 84 Nails, 42 In Each Row."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Double Stitch For 3¾ Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit Second Band In The Same Way."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on 84 nails, 42 in each row.",
+        "Knit double stitch for 3¾ inches.",
+        "Cast knitting from the rake.",
+        "Knit second band in the same way."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -4096,20 +3268,15 @@
     "innerHtml": "To Sew Crown And Bands Together."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Gather End A B Of The Crown, , And Sew It To The Middle Of One Of The Long Sides Of A Band. Gather The Other End Of The Crown In The Same Way, And Sew It To The Other Band."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Continue The Sewing Of The Bands Around The Edge Of The Crown Until The Bands Just Meet On The Side Or Overlap About ¼ Inch."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Turn The Bands Up And Fasten Them To The Crown On The Sides To Keep Them In Place."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Make Very Small Pompoms, Not More Than 1 Inch Across, Of The Same Color Yarn As The Crown, And Fasten Them To The Bands Where They Come Together On The Side Of The Cap. Put Some Crocheted Loops Of Yarn Between As Shown In ."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Gather end A B of the crown, , and sew it to the middle of one of the long sides of a band. Gather the other end of the crown in the same way, and sew it to the other band.",
+        "Continue the sewing of the bands around the edge of the crown until the bands just meet on the side or overlap about ¼ inch.",
+        "Turn the bands up and fasten them to the crown on the sides to keep them in place.",
+        "Make very small pompoms, not more than 1 inch across, of the same color yarn as the crown, and fasten them to the bands where they come together on the side of the cap. Put some crocheted loops of yarn between as shown in ."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -4132,8 +3299,12 @@
     "innerHtml": "Fig. 54"
   },
   {
-    "tag": "h5",
-    "innerHtml": "If The Cap Is Too Loose Around The Head, Tighten The Bands By Running A Double Strand Of Yarn Through The Knitting Just Where The Crown Is Sewed To The Bands."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "If the cap is too loose around the head, tighten the bands by running a double strand of yarn through the knitting just where the crown is sewed to the bands."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -4173,7 +3344,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "STOCKING CAP ()."
+    "innerHtml": "STOCKING CAP ."
   },
   {
     "tag": "hr",
@@ -4240,36 +3411,19 @@
     "innerHtml": "Directions."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Cast Stitches On Rake As Described In , Using The Color Of Yarn Chosen For The Crown Of The Cap."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Knit 7 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change To The Other Color Of Yarn And Knit 11 Inches For The Rolled Band."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Change To The First Color Of Yarn Again And Knit 8 Inches."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cast Knitting From The Rake As Described In  Of Chapter 4."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Gather Each End And Fold So That Section A, , Comes Inside Of Section C."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Fasten Gathered Ends Together."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Roll Band Once To Make The Cap With Tassel, , And Twice To Make The Style Shown In ."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Cast stitches on rake as described in , using the color of yarn chosen for the crown of the cap.",
+        "Knit 7 inches.",
+        "Change to the other color of yarn and knit 11 inches for the rolled band.",
+        "Change to the first color of yarn again and knit 8 inches.",
+        "Cast knitting from the rake as described in  of Chapter 4.",
+        "Gather each end and fold so that section A, , comes inside of section C.",
+        "Fasten gathered ends together.",
+        "Roll band once to make the cap with tassel, , and twice to make the style shown in ."
+      ]
+    }
   },
   {
     "tag": "hr",
@@ -4284,24 +3438,16 @@
     "innerHtml": "<em>To make a pompom for the cap</em> cut the circle and shuttle, shown in , out of cardboard."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fill The Shuttle With Yarn The Color Of The Band, And Wind The Cardboard Circle Until It Is Well Covered."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "With A Darning Needle, Run A Length Of Yarn Along The Inside Circle And Under The Yarn. Tie As Tightly As Possible."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Cut The Yarn Very Carefully Along The Outer Edge Of The Circle."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Wrap The Bunch Of Yarn In The Center Once Or Twice And Fasten Before Drawing It Through The Hole In The Circle."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Trim Down To The Desired Size."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Fill the shuttle with yarn the color of the band, and wind the cardboard circle until it is well covered.",
+        "With a darning needle, run a length of yarn along the inside circle and under the yarn. Tie as tightly as possible.",
+        "Cut the yarn very carefully along the outer edge of the circle.",
+        "Wrap the bunch of yarn in the center once or twice and fasten before drawing it through the hole in the circle.",
+        "Trim down to the desired size."
+      ]
+    }
   },
   {
     "tag": "p",
